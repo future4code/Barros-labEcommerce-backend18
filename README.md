@@ -64,8 +64,11 @@
 
 ## Documentação
 
-[Documentação](https://link-da-documentação)
+[Documentação](https://documenter.getpostman.com/view/21113907/2s8Yt1r9QR)
 
+## Deploy
+[Link do Deploy:](
+https://labecommerce-backend-nad18s.onrender.com)
 ## Stack utilizada
 <img src="https://skillicons.dev/icons?i=ts,nodejs, mysql," /> 
 <p>Express e Knex.</p>
