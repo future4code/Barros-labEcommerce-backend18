@@ -68,7 +68,7 @@
 
 ## Deploy
 [Link do Deploy:](
-https://labecommerce-backend-nad18s.onrender.com)
+https://labecommerce-taooo.onrender.com)
 ## Stack utilizada
 <img src="https://skillicons.dev/icons?i=ts,nodejs, mysql," /> 
 <p>Express e Knex.</p>
